@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Author - Rayan Mozamel
 
 def islower(c):
   """Checks for lowercase"""
